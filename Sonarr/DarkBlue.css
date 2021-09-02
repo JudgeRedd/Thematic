@@ -1,0 +1,399 @@
+:root {
+    --black: #111;
+    --dark: #333;
+    --light: #666;
+    --dark-accent: #001f3f;
+    --accent: #0074D9;
+    --light-accent: #7FDBFF;
+    --yellow: #FF851B;
+    --white: #DDD;
+    --blue: #0074D9;
+    --green: #2ECC40;
+    --red: #FF4136;
+    --purple: #F012BE;
+}
+
+html, body {
+    color: var(--white)
+}
+
+.SeriesIndex\/pageContentBodyWrapper\/1e15_, .PageContent\/content\/38ErY {
+    background-color: var(--black)
+}
+
+.SeriesIndexPoster\/title\/263Pq, .SeriesIndexPoster\/nextAiring\/1FZy6, .ModalContent\/modalContent\/-txrl {
+    background-color: var(--dark);
+}
+
+.SeriesDetailsSeason\/season\/3XIYa {
+    background-color: var(--dark);
+    border-color: var(--dark);
+}
+
+.SeriesDetailsSeason\/collapseButtonContainer\/trs6s {
+    background-color: var(--dark);
+    border-top-color: var(--light);
+}
+
+.RootFolderSelectInputOption\/value\/1ZdIo {
+    color: var(--light);
+}
+
+.EnhancedSelectInputOption\/option\/iwTsL:hover {
+    cursor: pointer;
+}
+
+.TableRowCell\/cell\/2fbg4 {
+    border-top-color: var(--light);
+}
+
+.PageSidebar\/sidebar\/3IOcI, .PageToolbar\/toolbar\/1Lo1N, .AddNewSeriesSearchResult\/underlay\/11FBP {
+    background-color: var(--dark);
+}
+
+.AddNewSeriesSearchResult\/underlay\/11FBP:hover {
+    background-color: var(--light);
+}
+
+.AddNewSeriesSearchResult\/underlay\/11FBP:hover + .AddNewSeriesSearchResult\/overlay\/3OiNk .Label\/default\/2AF1C {
+    background-color: var(--dark);
+}
+
+.Label\/default\/2AF1C {
+    background-color: var(--light);
+    border-color: var(--light);
+    color: var(--white);
+}
+
+.Label\/success\/1pfcC {
+    background-color: var(--green);
+    border-color: var(--green);    
+}
+
+.Label\/warning\/1EVt6 {
+    background-color: var(--yellow);
+    border-color: var(--yellow);
+}
+
+.Label\/danger\/1NOw3 {
+    background-color: var(--red);
+    border-color: var(--red);
+}
+
+.Label\/info\/3YD3Y {
+    background-color: var(--accent);
+    border-color: var(--accent);
+    color: var(--white)
+}
+
+.Icon\/info\/1CmtC {
+    color: var(--blue)
+}
+
+.Icon\/danger\/2age3 {
+    color: var(--red);    
+}
+
+.PageHeader\/header\/1IhlM {
+    background-color: var(--black);
+}
+
+.PageSidebarItem\/isActiveItem\/bUesh {
+    border-left-color: var(--accent) !important;
+}
+
+.PageSidebarItem\/link\/TuHn2 .Link\/to\/6fmSq {
+    color: red;
+}
+
+.PageSidebarItem\/isActiveParentLink\/2uxKf {
+    background-color: var(--dark-accent);
+}
+
+.PageSidebarItem\/isActiveLink\/1Hupc {
+    color: var(--white);
+}
+
+.PageSidebarItem\/link\/TuHn2:hover, .PageSidebarItem\/link\/TuHn2:focus {
+    color: var(--accent);
+}
+
+.ProgressBar\/success\/14T8R {
+    background-color: var(--green);
+}
+
+.AddNewSeriesSearchResult\/alreadyExistsIcon\/3Sovw {
+    color: var(--green);
+}
+
+.ProgressBar\/primary\/3YDfb {
+    background-color: var(--blue);
+}
+
+.ProgressBar\/danger\/2omix {
+    background-color: var(--red);
+}
+
+.HeartRating\/heart\/2I0uM, .PageHeader\/donate\/ZT-3N {
+    color: var(--red);
+}
+
+.PageContentFooter\/contentFooter\/3ODMj {
+    background-color: var(--black)
+}
+
+.SeriesIndexFooter\/continuing\/84F2g {
+    background-color: var(--blue);
+}
+
+.SeriesIndexFooter\/ended\/HYrLQ {
+    background-color: var(--green);
+}
+
+.SeriesIndexFooter\/missingMonitored\/2_ETf {
+    background-color: var(--red);
+}
+
+.SeriesIndexFooter\/missingUnmonitored\/2AL7V {
+    background-color: var(--yellow)
+}
+
+.Input\/input\/2YWzR, .AddNewSeries\/searchIconContainer\/3QAm8, .AddNewSeries\/clearLookupButton\/1dKG7, .TagInput\/internalInput\/Jbb1T {
+    background-color: var(--light) !important;
+    border-color: var(--light) !important;
+    color: var(--white);
+}
+
+.Input\/input\/2YWzR::placeholder {
+    color: var(--white);
+}
+
+.Input\/input\/2YWzR:focus {
+    border-color: var(--accent);
+    box-shadow: none;
+}
+
+.TableRow\/row\/33xJE {
+    transition: background-color 100ms
+}
+
+.TableRow\/row\/33xJE:hover {
+    background-color: var(--light);
+    color: var(--white);
+}
+
+.TableRow\/row\/33xJE:hover .Link\/to\/6fmSq {
+    color: var(--white);
+}
+
+.CheckInput\/primaryIsChecked\/3mVN0 {
+    background-color: var(--accent);
+    border-color: var(--accent);
+}
+
+tr .IconButton\/button\/2qiGi:hover {
+    color: var(--dark);
+}
+
+.Button\/default\/2uiHU {
+    background-color: var(--white);
+    border-color: var(--white);
+}
+
+.Button\/default\/2uiHU:hover {
+    background-color: var(--light);
+    border-color: var(--light);
+    color: var(--white);
+}
+
+.Button\/primary\/1F1YL {
+    background-color: var(--accent);
+    border-color: var(--accent);
+}
+
+.Button\/primary\/1F1YL:hover {
+    border-color: var(--dark-accent);
+    background-color: var(--dark-accent);
+}
+
+.Button\/success\/36KsU {
+    background-color: var(--green);
+    border-color: var(--green);
+}
+
+.Button\/warning\/1KG7v {
+    background-color: var(--yellow);
+    border-color: var(--yellow);
+}
+
+.Button\/danger\/GbXmk {
+    background-color: var(--red);
+    border-color: var(--red);
+}
+
+.FieldSet\/legend\/3x6NF {
+    color: var(--white)
+}
+
+.SeasonPassSeason\/season\/2FWuT {
+    background-color: var(--light);
+    border-color: var(--light)
+}
+
+.TableRow\/row\/33xJE:hover .SeasonPassSeason\/season\/2FWuT {
+    background-color: var(--dark);
+    color: var(--white);
+}
+
+.SeasonPassSeason\/allEpisodes\/1zGja {
+    background-color: var(--green);
+}
+
+.DayOfWeek\/dayOfWeek\/1iw4D {
+    background-color: var(--light);
+}
+
+.CalendarDay\/day\/2TMXA {
+    border-bottom-color: var(--light);
+    border-left-color: var(--light)
+}
+
+.CalendarDays\/days\/girjM {
+    border-right-color: var(--light)
+}
+
+.CalendarDay\/dayOfMonth\/2CzdW {
+    background-color: var(--dark);
+    border-bottom-color: var(--dark)
+}
+
+.CalendarEvent\/event\/3Uyb9 {
+    /* background-color: var(--dark); */
+    border-bottom-color: var(--black);
+    margin: 4px 2px;
+}
+
+.CalendarEvent\/event\/3Uyb9:hover {
+    background-color: var(--dark);
+}
+
+.CalendarEvent\/seriesTitle\/3sg1o, .CalendarEvent\/episodeInfo\/IWdbW, .CalendarEvent\/airTime\/3Wzho {
+    color: var(--white);
+}
+
+.CalendarEvent\/downloaded\/2vSrJ {
+    border-left-color: var(--green) !important;
+}
+
+.CalendarEvent\/unaired\/3aHdN {
+    border-left-color: var(--blue) !important;
+}
+
+.CalendarEvent\/onAir\/dwaU_ {
+    border-left-color: var(--yellow) !important;
+}
+
+.CalendarEvent\/missing\/1y6vZ {
+    border-left-color: var(--red) !important;
+}
+
+.CalendarEvent\/downloading\/1kwSO {
+    border-left-color: var(--purple) !important;
+}
+
+.EpisodeDetailsModalContent\/selectedTab\/42EMp {
+    border-color: var(--light);
+    background-color: var(--light);
+    color: var(--white);
+}
+
+.AgendaEvent\/event\/2a83A:hover {
+    background-color: var(--light);
+    color: var(--white);
+}
+
+.AgendaEvent\/date\/xgNvN {
+    font-weight: normal;
+}
+
+.Settings\/link\/tvjY0 {
+    color: var(--accent);
+    border: none;
+}
+
+.Settings\/summary\/3KPAv {
+    color: var(--light);
+}
+
+.NamingOption\/option\/giCGd {
+    border-color: var(--light);
+}
+
+.NamingOption\/option\/giCGd:hover .NamingOption\/token\/1y5bz, .NamingOption\/option\/giCGd:hover .NamingOption\/example\/RNR6x {
+    background-color: var(--black);
+}
+
+.NamingOption\/token\/1y5bz {
+    background-color: var(--light);
+}
+
+.NamingOption\/example\/RNR6x {
+    background-color: var(--dark);
+}
+
+.EnhancedSelectInput\/options\/3yy65 {
+    background-color: var(--light);
+    border-color: var(--light);
+}
+
+.EnhancedSelectInputOption\/isSelected\/1mRo2 {
+    background-color: var(--accent)
+}
+
+.EnhancedSelectInputOption\/option\/iwTsL:hover {
+    background-color: var(--dark)
+}
+
+.HintedSelectInputOption\/optionText\/2t1-P, .HintedSelectInputOption\/hintText\/vhJau {
+    color: var(--white);
+}
+
+.FormLabel\/isAdvanced\/1glHh, .FormInputHelpText\/isWarning\/Bg0th {
+    color: var(--yellow);
+}
+
+.Card\/card\/1iGZk {
+    background-color: var(--dark);
+    color: var(--white);
+    box-shadow: none;
+}
+
+.AddDownloadClientItem\/downloadClient\/1GTyO.Card\/card\/1iGZk,
+.AddImportListItem\/list\/3akxc.Card\/card\/1iGZk,
+.AddNotificationItem\/notification\/1HuST.Card\/card\/1iGZk {
+    background-color: var(--light);
+}
+
+.QualityProfiles\/center\/1iiKm, .LanguageProfiles\/center\/7EV_2, .ReleaseProfiles\/center\/114Qx, .Indexers\/center\/11Csq
+,.DownloadClients\/center\/FvACx, .ImportLists\/center\/17Qdu, .Notifications\/center\/8iwmy {
+    background: none;
+}
+
+.QualityDefinition\/thumb\/2tu5Y {
+    border-color: var(--accent);
+}
+
+.QualityDefinition\/track\/34yQ-:nth-child(odd) {
+    background-color: var(--white);
+}
+
+.QualityDefinition\/track\/34yQ- {
+    background-color: var(--blue);
+}
+
+.AddDownloadClientItem\/actions\/38bm5 > .Button\/default\/2uiHU:hover,
+.AddImportListItem\/actions\/1WszX > .Button\/default\/2uiHU:hover,
+.AddNotificationItem\/actions\/3jS6l > .Button\/default\/2uiHU:hover {
+    background-color: var(--dark);
+    border-color: var(--dark);
+}
