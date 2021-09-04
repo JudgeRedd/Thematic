@@ -35,9 +35,8 @@ html, body {
     border-top-color: var(--light);
 }
 
-.RootFolderSelectInputOption\/value\/1ZdIo,
 .RootFolderSelectInputOption\/value\/1ZdIo {
-    color: var(--light);
+    color: var(--white);
 }
 
 .EnhancedSelectInputOption\/option\/iwTsL:hover {
@@ -163,6 +162,10 @@ html, body {
     background-color: var(--light) !important;
     border-color: var(--light) !important;
     color: var(--white);
+}
+
+.Input\/input\/2YWzR > option:disabled {
+    color: var(--white) !important;
 }
 
 .Input\/input\/2YWzR::placeholder {
